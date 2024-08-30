@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-[![Tela do Jogo][product-screenshot]](https://github.com/Otavig/PointCircle/blob/main/imgs/pointclick_screen.png)
+[Tela do Jogo](https://github.com/Otavig/PointCircle/blob/main/imgs/pointclick_screen.png)
 
 Este projeto foi desenvolvido para uma apresentação voltada para crianças, recriando um jogo originalmente feito em JavaScript na plataforma Scratch. A ideia foi apresentar o desenvolvimento de jogos de forma simples e envolvente, com o objetivo de despertar o interesse das crianças pela programação e desenvolvimento de jogos. As 7 apresentações realizadas foram altamente cativantes e agradáveis.
 
